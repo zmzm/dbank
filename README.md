@@ -1,1 +1,3 @@
-# dbank
+# DBANK
+
+## Decentralised finance app
